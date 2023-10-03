@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psalario", "Psalario\Psalario.csproj", "{2E675795-F64B-49E4-8007-97D08A3865FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E675795-F64B-49E4-8007-97D08A3865FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E675795-F64B-49E4-8007-97D08A3865FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E675795-F64B-49E4-8007-97D08A3865FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E675795-F64B-49E4-8007-97D08A3865FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D017D9FA-2EA3-4C76-A5E7-DE3018DCE664}
+	EndGlobalSection
+EndGlobal
